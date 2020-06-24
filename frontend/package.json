@@ -16,6 +16,7 @@
     "child_process": "^1.0.2",
     "core-js": "^3.6.4",
     "d3": "^4.9.1",
+    "db-migrate": "^0.11.11",
     "fs": "0.0.1-security",
     "highlight.js": "^9.10.0",
     "lodash.throttle": "^4.1.1",
